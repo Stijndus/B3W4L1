@@ -10,8 +10,7 @@
     <?php
         require('variables.php');
 
-        echo $firstname;
-        echo $lastname;
+        echo $fruit[0], $fruit[2], $fruit[3];
     ?>
 </body>
 </html>

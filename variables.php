@@ -1,2 +1,1 @@
-$firstname = 'Stijn'
-$lastname = 'Dussedorp'
+$fruit = array('Ananas', 'Appel', 'Banaan');
