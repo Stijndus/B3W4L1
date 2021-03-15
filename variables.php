@@ -1,0 +1,2 @@
+$firstname = 'Stijn'
+$lastname = 'Dussedorp'
